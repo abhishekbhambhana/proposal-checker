@@ -38,7 +38,7 @@ Grades: A 85+, B 70 to 84, C 55 to 69, D below 55.
 ## Install
 
 ```bash
-pip install git+https://github.com/abhishek-growth-dev/proposal-checker
+pip install git+https://github.com/abhishekbhambhana/proposal-checker
 ```
 
 Python 3.10+, no dependencies.
@@ -64,7 +64,7 @@ for fix in report.fixes:
 
 ## Pair it with the job scorer
 
-Score the job with [upwork-job-scorer](https://github.com/abhishek-growth-dev/upwork-job-scorer) first, so you only write proposals for jobs worth winning. Then check the proposal here before it goes out.
+Score the job with [upwork-job-scorer](https://github.com/abhishekbhambhana/upwork-job-scorer) first, so you only write proposals for jobs worth winning. Then check the proposal here before it goes out.
 
 ## Tests
 
@@ -72,4 +72,4 @@ Score the job with [upwork-job-scorer](https://github.com/abhishek-growth-dev/up
 python -m unittest discover -s tests -v
 ```
 
-MIT licensed. Built by [Abhishek Bhambhana](https://github.com/abhishek-growth-dev), founder of [Upwork Growth Desk](https://upgrowthdesk.com).
+MIT licensed. Built by [Abhishek Bhambhana](https://github.com/abhishekbhambhana), founder of [Upwork Growth Desk](https://upgrowthdesk.com).

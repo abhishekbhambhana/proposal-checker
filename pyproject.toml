@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/abhishek-growth-dev/proposal-checker"
+Homepage = "https://github.com/abhishekbhambhana/proposal-checker"
 
 [project.scripts]
 proposal-checker = "proposal_checker.cli:main"
