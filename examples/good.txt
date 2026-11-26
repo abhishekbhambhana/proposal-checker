@@ -1,0 +1,10 @@
+Three apps loading on every page is the usual reason a Shopify store drops from 2.8% to 1.6% on mobile checkout.
+
+Last month I fixed the same thing for a skincare store: mobile load went from 7.1s to 2.3s and checkout conversion recovered to 3.1% in two weeks. Before and after report: https://example.com/skincare-speed
+
+For your store I would:
+1. Audit the theme and the three new apps, and measure what each one adds to mobile load.
+2. Defer or replace the heavy app scripts, and clean up the Liquid that renders above the fold.
+3. Re-test checkout on real phones and send you the before and after numbers.
+
+Which three apps did you add, and was the drop right after the last one went live?

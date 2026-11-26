@@ -1,0 +1,3 @@
+Shopify store checkout is slow and mobile conversion dropped
+
+Our Shopify store loads in 6+ seconds on mobile and the checkout conversion rate fell from 2.8% to 1.6% after we added three apps. We need someone to audit the theme and apps, fix page speed, and get mobile conversion back. Must have Shopify theme and Liquid experience. Please share a store you sped up.

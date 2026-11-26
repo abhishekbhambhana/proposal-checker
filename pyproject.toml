@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "proposal-checker"
+version = "0.1.0"
+description = "Grade an Upwork proposal 0 to 100 before you send it."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Abhishek Bhambhana" }]
+requires-python = ">=3.10"
+keywords = ["upwork", "freelancing", "proposals", "cli"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Environment :: Console",
+]
+
+[project.urls]
+Homepage = "https://github.com/abhishek-growth-dev/proposal-checker"
+
+[project.scripts]
+proposal-checker = "proposal_checker.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
