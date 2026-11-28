@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "proposal-checker"
-version = "0.1.0"
+version = "1.0.0"
 description = "Grade an Upwork proposal 0 to 100 before you send it."
 readme = "README.md"
 license = { text = "MIT" }
