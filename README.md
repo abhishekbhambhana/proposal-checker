@@ -1,5 +1,7 @@
 # proposal-checker
 
+[![tests](https://github.com/abhishekbhambhana/proposal-checker/actions/workflows/tests.yml/badge.svg)](https://github.com/abhishekbhambhana/proposal-checker/actions/workflows/tests.yml) ![Python 3.10 to 3.13](https://img.shields.io/badge/python-3.10%20to%203.13-2F6A3A) [![MIT license](https://img.shields.io/badge/license-MIT-2F6A3A)](LICENSE) [![release](https://img.shields.io/github/v/release/abhishekbhambhana/proposal-checker?color=2F6A3A)](https://github.com/abhishekbhambhana/proposal-checker/releases)
+
 Grade an Upwork proposal from 0 to 100 before you send it, and get the three fixes that matter most.
 
 A client sees the first two lines of your proposal in the applicant list and decides in seconds. This checker reads your proposal in that same order: the opening first, then whether it talks about their job, then proof, then the ask.
